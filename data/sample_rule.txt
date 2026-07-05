@@ -1,0 +1,24 @@
+# War of the Ring Turn Structure
+
+## Summary of the Turn
+War of the Ring is played over a series of turns, until either player wins the game. Each turn is divided into six phases.
+
+### Phase 1: Recover Action Dice and Draw Event Cards
+Each player recovers the Action dice he used in the previous turn, plus any dice which were added to the Action Dice Pool and minus any dice which were removed from the pool. Then, each player draws 2 cards, one from each of their respective Event decks.
+
+### Phase 2: Fellowship Phase
+The Free Peoples player may now declare the position of the Fellowship. If the Fellowship is declared in a City or Stronghold of a Free Peoples Nation, that Nation is activated (if the Nation is showing “Passive” on the Political Track, flip the Nation to “Active”) and the Ring-bearers may be healed. Also, during this phase, the Free Peoples player may change the Guide of the Fellowship.
+
+### Phase 3: Hunt Allocation
+The Shadow player may now place a number of Action dice in the Hunt Box located on the game board. The Shadow player must place at least one Action die if the Free Peoples player retrieved at least 1 die from the Hunt Box during Phase 1. He may allocate only as many dice as the number of Companions remaining in the Fellowship. These dice are not rolled during the following Action Roll phase.
+
+### Phase 4: Action Roll
+Players roll their Action dice (except the dice already in the Hunt Box). Then, the Shadow player immediately takes all the rolled dice showing the “Eye” result and adds them to the Hunt Box.
+
+### Phase 5: Action Resolution
+This phase is the primary game phase of the War of the Ring board game. It is during this phase that players will utilize the Action dice results to move their Characters and Armies on the game board, or to take other important actions. The results of the rolled Action dice dictate the actions the players can take during this phase. 
+
+Starting with the Free Peoples player, the two players alternate actions, each taking one action by selecting and removing one of his available die results. Each time the Free Peoples player uses an Action die to move the Fellowship, he places that die in the Hunt Box after completing the action. All other used dice are set aside until next turn.
+
+### Phase 6: Victory Check
+Players now check to see whether either player has achieved the Military Victory conditions. If not, a new game turn begins. Note: If a Ring-based Victory condition occurs at any time during a turn, the game ends immediately, without waiting for the Victory Check phase.
