@@ -16,7 +16,7 @@ def ask_wotr_bot(user_question):
     # 2. Query the database for the top 2 closest matching chunks
     db_results = collection.query(
         query_texts=[user_question],
-        n_results=2
+        n_results=4
     )
     
     # Extract the text from the matching chunks
@@ -58,4 +58,4 @@ def ask_wotr_bot(user_question):
 # --- Test the RAG System ---
 if __name__ == "__main__":
     # Test Question that exists in our rules sample
-    ask_wotr_bot("How many dice can the shadow player allocate to the hunt?")
+    ask_wotr_bot("What are the conditions for a Shadow Military Victory?")
